@@ -27,7 +27,7 @@ body {
 }
 
 .card-img-left {
-  height: 280px;
+  height: 200px;
   /* Link to your background image using in the property below! */
   background:  url('12.png') no-repeat;
   background-size: 100% 100%;
