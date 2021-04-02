@@ -27,9 +27,9 @@ body {
 }
 
 .card-img-left {
-  height: 400px;
+  height: 280px;
   /* Link to your background image using in the property below! */
-  background:  url('11.mp4') no-repeat;
+  background:  url('12.png') no-repeat;
   background-size: 100% 100%;
 }
 
